@@ -2,6 +2,6 @@ This project processes optical CCD images in FITS format to detect galaxies with
 
 Extention works including calculate the two point correlation function of galaxies, which proved the uneven distribution of galaxies in the local universe.
 
-For more information, please check the [presentation slides](https://github.com/ZZZiyao/Year-3-Lab-cycle-1-Astronomical-image-processing/blob/main/Lab1_astroimage.pptx) of this project.
+We conducted a 10-min [presentation](https://github.com/ZZZiyao/Year-3-Lab-cycle-1-Astronomical-image-processing/blob/main/Lab1_astroimage.pptx) to two assessors.
 
-This repository is intended for academic and personal use only. Please contact the author (me) before using any part of these documents in your own work.
+This repository is intended for academic and personal use ONLY. 
